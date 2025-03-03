@@ -1,0 +1,6 @@
+# 1. git log hystory of all commits
+# 2. git reset #id of commit to get back on that commit
+# 3. git stash after git add to sent file in stash
+# 4. git stash pop for getting file back from stash => after git add
+# 5. git stash clear for clean the stash that are not committed
+# 6. git remote add origin remotePath
