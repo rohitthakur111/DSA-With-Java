@@ -16,4 +16,4 @@
         git fetch --all --prune  fetch all changes from all branch
         git reset --hard upstream/main
 
-    2. git pull 
+    2. git pull origin main
